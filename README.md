@@ -47,7 +47,3 @@
 <img align="right" height="150" src="https://i.pinimg.com/originals/fa/6a/a8/fa6aa8b9f02691e42df56f1678e795fc.gif"  />
 
 ###
-
-<img src="https://raw.githubusercontent.com/mtsnatalino/mtsnatalino/output/snake.svg" alt="Snake animation" />
-
-###
